@@ -1,3 +1,12 @@
+/** Project: Lab3
+ * Purpose Details: Integrates with SQL, MongoDB, and Redis databases, along with blockchain functionality
+ * Course: IST 242
+ * Author: Charlie Defelice
+ * Date Developed: 2/16/24
+ * Last Date Changed: 2/18/24
+ * Rev: 2.2
+ */
+
 import java.util.Scanner;
 
 public class Main
